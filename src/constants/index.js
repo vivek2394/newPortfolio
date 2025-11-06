@@ -176,8 +176,8 @@ export const socials = [
   { name: "Instagram", href: "https://www.instagram.com/vivek__0008/" },
   {
     name: "Youtube",
-    href: "https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA",
+    href: "",
   },
   { name: "LinkedIn", href: "https://www.linkedin.com/in/vivek-dutt-budhodi/" }, // ✅ Updated to your name
-  { name: "GitHub", href: "https://github.com/vivekduttbudhodi" }, // ✅ Updated
+  { name: "GitHub", href: "https://github.com/vivekduttbudhodi" }, 
 ];
